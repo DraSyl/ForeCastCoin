@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /bin/
+Disallow: /ListPageCount/
+Disallow: /static/js/
+Disallow: /Controllers/
+Disallow: /Views/Home/static/js/
+Disallow: /*.config/
+Disallow: /*.asax/
